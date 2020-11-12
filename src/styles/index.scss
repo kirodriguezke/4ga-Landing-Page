@@ -25,17 +25,18 @@
 
 */
 body{
-    background-color: #F1E6F1;
+    background-color: rgb(241, 201, 241);
 }
 .navbar{
-    background-color: rgb(65, 102, 235);
-    color: white;
+    background-color: rgb(142, 149, 212);
+    color: rgb(199, 169, 190);
 }
 .card{
     width: 18rem;
     max-width: 540px; 
     min-width: 500px;
-    background-color: #F0F0F6;
+    background-color: rgb(170, 166, 166);
+    color: white;
 }
 
 .jumbotron{
@@ -44,7 +45,7 @@ body{
     background-position: bottom;
     background-repeat: no-repeat;
     background-size: cover;
-    color:white;
+    color:rgb(82, 60, 206);
     font-style: oblique;
     
 }
@@ -52,6 +53,6 @@ body{
     overflow: scroll;
 }
 footer{
-    color: gray;
+    color: rgb(65, 64, 64);
 }
 

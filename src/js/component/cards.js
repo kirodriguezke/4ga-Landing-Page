@@ -25,8 +25,8 @@ export function Card(props) {
 								<a
 									target="_blank"
 									href={props.buttonCard}
-									className="btn btn-outline-secondary">
-									Lets check it out together!
+									className="btn btn-secondary">
+									Wanna know more?
 								</a>
 							</div>
 						</div>

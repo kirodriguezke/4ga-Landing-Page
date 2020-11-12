@@ -11,35 +11,32 @@ export function Home(props) {
 		<div className="container">
 			<Navbar />
 
-			<Jumbotron
-				title=" Daniela and Enrique's History"
-				urlJumbutton="https://www.ted.com/talks/olivia_remes_how_to_cope_with_anxiety"
-			/>
+			<Jumbotron title=" Daniela and Enrique's History" urlJumbutton="" />
 
 			<div className="contenedor container d-flex">
 				<Card
-					urlImg="https://cdn.powerofpositivity.com/wp-content/uploads/2014/12/meditate-meditation-sunset-1200x846.jpg"
-					title="Meditation"
-					textCard="Mantra meditation has been practiced in India for thousands of years because people knew that it reduces stress, calms the mind and increases inner peace. Click the button below to start a 21-day guided meditation for beginners"
-					buttonCard="https://www.youtube.com/watch?v=Q_v5NP5DdBE&list=PLC7DackXX5HNlFjUM7Z0SENwC2ZJpcxgR"
+					urlImg="https://scontent-mad1-1.xx.fbcdn.net/v/t1.0-9/124969822_3409523965826966_569822964023677039_o.jpg?_nc_cat=105&ccb=2&_nc_sid=730e14&_nc_ohc=m2dwMh9pY-oAX9EKM7C&_nc_ht=scontent-mad1-1.xx&oh=992d3e830144b4828424f630dd525152&oe=5FD13F1D"
+					title="Fine afternoon of September"
+					textCard="We met at a small chilean celebration in 2017. I set my eyes on her and I  knew that I wanted to met her."
+					buttonCard=""
 				/>
 				<Card
-					urlImg="https://www.ift.org/-/media/news-and-publications/by-topic/foodhealthnutrition.jfif"
-					title="Eat Healthy"
-					textCard="When was the last time you truly appreciated a meal? It’s understandable. Your life is busy, and as a result, eating has become something done in passing. I encourage you to try slowing down, making food yourself, and eating purposefully. Choose live foods with a variety of different colors, textures, and flavors. Click for an interesting TED Talk about Mindful Eating"
-					buttonCard="https://youtu.be/CtOU4f3smt4"
+					urlImg="https://scontent-mad1-1.xx.fbcdn.net/v/t1.0-9/124760395_3409550825824280_2679364625507214183_o.jpg?_nc_cat=103&ccb=2&_nc_sid=730e14&_nc_ohc=fitlvAY9r40AX9Gm26G&_nc_ht=scontent-mad1-1.xx&oh=4c89283442d7bb804733722dc0c26993&oe=5FD13056"
+					title="Wonderful park rides"
+					textCard="One thing in common we two have is the love to go on hikes."
+					buttonCard=""
 				/>
 				<Card
-					urlImg="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/assets/2019/06/18-06-2019-Yoga-ahmed-soliman-1.jpg/image1024x768.jpg"
-					title="Move your body"
-					textCard="Move your body. Exercising once a day (going for a walk, jogging, going to the gym or doing yoga) will make a difference, have a time for yourself and be with your body, release the daily rush. Click for Yoga For Beginners (7 days of challenge)"
-					buttonCard="https://youtu.be/G_a4rPURiCY"
+					urlImg="https://scontent-mad1-1.xx.fbcdn.net/v/t1.0-9/124844907_3409569835822379_9121918034525976208_o.jpg?_nc_cat=110&ccb=2&_nc_sid=730e14&_nc_ohc=It-Sc2ajvSgAX_iLaoG&_nc_ht=scontent-mad1-1.xx&oh=c8675f22f7b2842badf9778cbff6d2cc&oe=5FD2FA28"
+					title="We love visiting new places"
+					textCard="We have been in many different places together, we love knowing new places."
+					buttonCard=""
 				/>
 				<Card
-					urlImg="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/nature-quotes-1557340276.jpg?crop=0.666xw:1.00xh;0.168xw,0&resize=640:*"
-					title="Connect with nature"
-					textCard="Being in contact with nature has been shown to reduce stress, boost your immune system, increase your concentration, and make you happy. You could do this daily by visiting the nearest park or even having plants in your home, jus do it AWARENESS"
-					buttonCard="https://www.ted.com/playlists/398/reconnect_with_nature"
+					urlImg="https://scontent-mad1-1.xx.fbcdn.net/v/t1.0-9/124778330_3409592809153415_6793276009062769448_o.jpg?_nc_cat=111&ccb=2&_nc_sid=730e14&_nc_ohc=HylbaeThWF0AX8vRleP&_nc_ht=scontent-mad1-1.xx&oh=f60a40d9909094ec52b530f1f4d8f3ff&oe=5FD392AA"
+					title="Dress up Time"
+					textCard="We also love dressing up for fancy events ;)."
+					buttonCard=""
 				/>
 			</div>
 

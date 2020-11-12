@@ -27,7 +27,7 @@ export let Navbar = function() {
 					</li>
 					<li className="nav-item">
 						<a className="nav-link" href="#">
-							Services
+							History
 						</a>
 					</li>
 					<li className="nav-item">

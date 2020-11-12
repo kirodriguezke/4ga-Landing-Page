@@ -7,9 +7,8 @@ export function Jumbotron(props) {
 			<div className="jumbotron text-justify bg-cover">
 				<h1 className="display-4">{props.title}</h1>
 				<p className="lead">
-					When your mind and heart are truly open abundance will flow
-					to you effortlessly and easily. Click "Call to action" for
-					know a bit more of this 21st century disease
+					I fell in love the way you fall asleep: slowly, and then all
+					at once.
 				</p>
 				<a
 					className="btn btn-light btn-lg"
@@ -21,9 +20,7 @@ export function Jumbotron(props) {
 			</div>
 			<div className="alert alert-secondary">
 				<strong>
-					In this landpage you can find four mechanisms to learn how
-					to live in the present for reduce stress and anxiety from
-					day to day
+					In this landpage you can find the true story of two lovers.
 				</strong>
 			</div>
 		</>

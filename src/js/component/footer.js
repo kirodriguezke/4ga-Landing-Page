@@ -4,7 +4,7 @@ export function Footer() {
 	return (
 		<div className="container-fluid ">
 			<footer>
-				Copyright <i className="far fa-copyright" /> Your Website 2020
+				Copyright <i className="far fa-copyright" /> 2020's website
 			</footer>
 		</div>
 	);
