@@ -17,7 +17,7 @@ export function Home(props) {
 				<Card
 					urlImg="https://scontent-mad1-1.xx.fbcdn.net/v/t1.0-9/124969822_3409523965826966_569822964023677039_o.jpg?_nc_cat=105&ccb=2&_nc_sid=730e14&_nc_ohc=m2dwMh9pY-oAX9EKM7C&_nc_ht=scontent-mad1-1.xx&oh=992d3e830144b4828424f630dd525152&oe=5FD13F1D"
 					title="Fine afternoon of September"
-					textCard="We met at a small chilean celebration in 2017. I set my eyes on her and I  knew that I wanted to met her."
+					textCard="We met at a small chilean celebration in 2017. I set my eyes on her and I  knew that I wanted to meet her."
 					buttonCard=""
 				/>
 				<Card

@@ -6,7 +6,8 @@ export let Navbar = function() {
 			<a
 				className="navbar-brand"
 				href="https://getbootstrap.com/"
-				target="_blank">
+				target="_blank"
+				rel="noopener noreferrer">
 				Start Bootstrap
 			</a>
 
