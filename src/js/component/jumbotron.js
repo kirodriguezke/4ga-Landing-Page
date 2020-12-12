@@ -12,7 +12,8 @@ export function Jumbotron(props) {
 				</p>
 				<a
 					className="btn btn-light btn-lg"
-					target="_blank"
+                    target="_blank"
+                    rel="noopener noreferrer"
 					href={props.urlJumbutton}
 					role="button">
 					Call to action!

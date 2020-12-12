@@ -23,7 +23,8 @@ export function Card(props) {
 									{props.textCard}
 								</p>
 								<a
-									target="_blank"
+                                    target="_blank"
+                                    rel="noopener noreferrer"
 									href={props.buttonCard}
 									className="btn btn-secondary">
 									Wanna know more?
